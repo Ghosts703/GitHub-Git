@@ -16,7 +16,7 @@ git push
 
 If new commits made in the file or contents, then following commands should be entered:
 git status
-git add .
+git add .	--> '.' indicates that every content of the git folder will be added to repository over github.
 git commit -m 'new changes/commit.'
 git push
 git status
