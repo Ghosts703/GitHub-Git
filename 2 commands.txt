@@ -1,0 +1,14 @@
+
+git status
+git init
+git remote add origin https://github.com/Ghosts703/Learning-25-oct-2024.git
+git add .
+git commit -m 'new changes by farhan.'
+git push -u origin master
+
+
+Note:	After new changes in the content. Type the commands in sequence.
+git status
+git add .
+git commit -m 'new changes.'
+git push

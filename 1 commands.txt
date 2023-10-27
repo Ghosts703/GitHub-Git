@@ -1,0 +1,23 @@
+
+control panel --> credential manager --> Windows Credentials --> Generic Credentials --> git:htps://github.com
+
+
+git status
+git init
+git status
+git add .
+git status
+git commit -m 'thak gaya mai'
+git commit -m 'buri tarha se'
+git remote add origin https://github.com/Ghosts703/24-Oct-2023-LearningGitHub.git
+git push -u origin master
+git commit -m 'hello everyone'
+git push
+
+If new commits made in the file or contents, then following commands should be entered:
+git status
+git add .
+git commit -m 'new changes/commit.'
+git push
+git status
+

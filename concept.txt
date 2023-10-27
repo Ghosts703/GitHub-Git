@@ -1,0 +1,35 @@
+
+Git & github is very important. Difference between them?
+
+Git is a version control system. What does it mean?
+example:
+	We receive a project. Each individual will do a specific job.
+	I will do frontend, my friend will do backend, and so on.
+	We all did our work. Eventually, we merged our project. Or we pushed our project over github.
+	Team collaborate with each other through github.
+	Suppose, each individual in a team is sitting in other part of the world. To counter this issue, we use github.
+	In software or IT industry, interviewer asks for project or your work, on github.
+	Developers push their projects/work on github. Github is very important. Profile/Portfolio of a developer is present over github.
+		
+git status	(untracked)
+git init
+git status	(untracked)
+git add .
+git status	(tracked)
+git commit -m 'Half work done'
+git config --global user.name 'Ghosts703'
+git config --global user.email 'fk254945+GitHub@gmail.com'
+git remote add origin https://github.com/Ghosts703/Testing-01.git		(shift + insert)
+git commit -m 'half work done'
+git branch -m master	(optional command. Will work without it too)
+git push -u origin master
+
+git add .	
+git commit -m 'new commit/changes'
+git push
+
+Note: new 'Folder 2' directory created.
+git status
+git add .
+git commit -m 'new folder 2 created. new changes.'
+git push
